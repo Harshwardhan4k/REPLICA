@@ -1,0 +1,421 @@
+.container{
+    
+    font-family: playfair display;
+    margin: 0;
+    padding: 0;
+}
+.one{
+
+    background-color: rgb(242 112 112);
+    text-align: center;  
+    position: relative;
+   font-weight: 100;
+    color: white; 
+    
+}
+.one-1{
+    font-size: 48px;    
+    font-weight: normal;   
+    padding-top: 1%;
+    padding-left: 26%;
+    padding-right: 26%;
+    line-height: 1.6;
+    word-spacing: 5px;
+}
+.one-2{
+    padding:7% 0 3% 0;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-size: 20px;
+    letter-spacing: 2px;
+
+}
+.one-3{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    padding-top: 4%;
+    padding-bottom: 4% ;
+}
+.one-3a{
+    width: 50%;
+    font-size: 16px;
+    
+}
+.one-3a img{
+    width: 100%
+}
+.one-3b{
+    width: 20%;
+    font-size: 20px;
+    margin: 0;
+}
+.two{
+    display: flex;
+    justify-content: center;    
+    line-height: 1.6; 
+    font-size: 1.2rem;
+    margin: 40px;
+    background-color: white;
+}
+.left{
+   padding-right: 5%;
+    text-align: right;
+    
+    /* word-wrap: break-word;     */
+}
+.right{
+    padding-left: 5%;
+    text-align: left;
+    /* word-wrap: break-word; */
+} 
+.left1{
+    display: flex;
+    justify-content: right;
+}
+.right1{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+}
+.left-a img,.right-a img {
+ width: 60%;
+} 
+.left-a,.right-a{
+    width: 20%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.left-b,.right-b{
+    width: 45%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+.left h4,.right h4{
+    text-transform: uppercase;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+  
+}
+.three-1,.three-3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.three-1{
+   padding: 3%;
+    line-height: 1.6;
+}
+.s3{
+    padding-right: 170px;
+
+    font-size: 48px;
+}
+.s31{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    padding-top: 80px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+.three-1,.three-2,.three-3{
+    width: 25%;    
+}
+.three-2a{
+    display: flex;
+    align-items: center;
+    flex-direction: column;    
+    margin: auto;
+}
+.three-2a img{
+    width: 100%;
+    height:auto;
+    object-fit: cover;  
+} 
+.three-3{
+    padding: 3%;
+    
+} 
+.three-3 h5{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+.three-3 p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: normal;
+    line-height: 1.6;
+    letter-spacing: 1.1;    
+    font-size: 18px;
+   
+}
+.five{
+    
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(242 112 112);
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    width: 67%;
+}
+.bottom{
+    width: 33%;
+    background-color: white;
+    padding: 2%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 19px;
+    line-height: 1.6;
+    color: #b3b3b3;
+
+}
+.bottom h2{
+    font-family: playfair display;
+    font-size: 48px;
+    color: black;
+}
+.top img{
+    width: 60%;
+}
+.top1,.top2,.top3{
+    margin-top: 10%;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+}
+.st{
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.st1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+    font-style: italic;
+    color: white;
+}
+.six{
+    background-color:rgb(242 112 112);
+    display: flex;
+    justify-content: start;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+.six-1{
+    width: 35%;
+    padding-left: 11%;
+}
+.six1{
+    font-size: 48px;
+}
+.six-1 p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    margin-top: 44px;
+    line-height: 1.6;
+}
+.seven{
+    display: flex;
+    justify-content: right;
+    background-color:rgb(242 112 112);
+}
+.seven-left{
+    padding: 30px;
+    display: flex;
+    width: 43%;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 48px;
+    font-family:  playfair display;
+    font-weight: bold;
+    background-color:white
+}
+.seven-right{
+    display: flex;
+    flex-direction: column;
+    width: 43%;
+    background-color:white
+}
+.seven-right img{    
+    width: 65%; 
+    border-radius: 50%;
+    
+    
+}
+.seven-right-up, .seven-right-down{
+    display: flex;
+    
+}
+.up1, .down1{
+    width: 60%;
+    padding: 30px;
+    
+}
+.up2, .down2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    padding: 30px;
+    
+}
+.up1 h5, .down1 h5{
+    font-family: playfair display;
+    font-size: 20px;
+}
+.up1 p,.down1 p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+}
+.eight{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    line-height: 1.6;
+    padding-top: 50px;
+}
+.eight-l{
+    width: 34%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.eight span{
+    font-size: 48px;
+}
+.eight-l p{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.eight-l img{
+    margin-top: 30px;
+    width: 40%;
+    border-radius: 50%;
+    
+}
+.eight-r{
+    width: 34%;
+    padding: 30px;
+    text-align: left;
+    
+}
+.eight-r label{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    background-color: black;
+}
+.eight hr{
+    width: 80%;
+
+}
+::placeholder{
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+input{
+    padding: 10px 12px;
+    width: 80%;
+    background-color:black;
+    box-shadow:white;
+    
+}
+.nine{
+   font-size: 14px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   background-color: #333333;
+   color: white;   
+   padding-bottom: 10px;
+}
+.nine1{
+    margin: 50px 0;
+}
+.nine2{
+    padding: 16px;
+}
+button{
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    width: 112px;
+    height: 45px;
+    border-radius: 0;
+}
+@media only screen and (max-width: 700px) {
+    .one-1{
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .one-3{
+        flex-wrap: wrap;
+    }
+    .one-3a,{
+        width: 80%;
+    }
+    .one-3b{
+        width: 100%;
+    }
+    .two {
+      flex-wrap: wrap;
+    }
+    .three{
+        flex-wrap: wrap;
+    }
+    .three-1,.three-2,.three-3{
+        width: 100%;
+    }
+    .five{
+        width: 100%;
+        flex-wrap:wrap-reverse;
+    }
+    .top,.bottom{
+        width: 100%;
+    }
+    .top1,.top2,.top3{
+        justify-content: center;
+        align-items: center;
+    }
+    .six-1{
+        width: 100%;
+        padding: 25px;
+    }
+    .seven{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .seven-left,.seven-right{
+        width: 100%;
+    }
+    .eight{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .eight-l{
+        width: 100%;
+    }
+    .eight-r{
+        width: 100%;
+    }
+  }
